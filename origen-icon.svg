@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="origen-icon.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.56623863"
+     inkscape:cx="350.39535"
+     inkscape:cy="709.9579"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3711">
+      <rect
+         rx="0"
+         ry="6.2150235"
+         y="70.214287"
+         x="33.261906"
+         height="52.160713"
+         width="52.160713"
+         id="rect10"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.19;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         id="rect12"
+         transform="scale(0.26458333)"
+         d="M 301.9043 345.42188 C 280.13572 345.44743 252.71881 351.60435 234.80664 377.75391 C 208.65222 415.93614 153.32249 413.96149 129.75 411.15625 L 129.75 437.61523 C 129.75 449.17641 139.05796 458.48438 150.61914 458.48438 L 297.95312 458.48438 C 309.5143 458.48438 318.82031 449.17641 318.82031 437.61523 L 318.82031 346.58203 C 313.87505 345.91131 308.1267 345.41457 301.9043 345.42188 z "
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.66285586;stroke-miterlimit:4;stroke-dasharray:none" />
+      <ellipse
+         ry="4.6998882"
+         rx="12.877439"
+         cy="90.083206"
+         cx="48.404484"
+         id="path3706"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.20679556;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>
